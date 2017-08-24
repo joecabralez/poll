@@ -1,0 +1,35 @@
+{
+  "name": "brewcrewpoll",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "4.4.3"
+  },
+  "keywords": [],
+  "author": "Joe",
+  "license": "ISC",
+  "description": "brew crew poll portion",
+  "dependencies": {
+    "body-parser": "1.15.1",
+    "cookie-parser": "1.4.1",
+    "express": "4.13.4",
+    "express-session": "1.13.0",
+    "latest-version": "^3.1.0",
+    "morgan": "1.7.0",
+    "nedb": "1.8.0",
+    "passport": "0.3.2",
+    "passport-twitter": "1.0.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soirana/fcc-voting.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Soirana/fcc-voting/issues"
+  },
+  "homepage": "https://github.com/Soirana/fcc-voting#readme"
+}
