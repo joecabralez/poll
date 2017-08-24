@@ -26,10 +26,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Soirana/fcc-voting.git"
+    "url": "git+https://github.com/joecabralez/poll.git"
   },
   "bugs": {
-    "url": "https://github.com/Soirana/fcc-voting/issues"
+    "url": "https://github.com/joecabralez/poll/issues"
   },
-  "homepage": "https://github.com/Soirana/fcc-voting#readme"
+  "homepage": "https://github.com/joecabralez/poll#readme"
 }

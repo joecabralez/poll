@@ -11,7 +11,7 @@ var app = express();
 passport.use(new Strategy({
     consumerKey: process.env['twitterkey'],
     consumerSecret: process.env['twittersecret'],
-    callbackURL: 'https://soirana-peanuts.herokuapp.com/twitter/return'
+    callbackURL: 'https://aqueous-fjord-78470.herokuapp.com/twitter/return'
   },
   function(token, tokenSecret, profile, cb) {
     return cb(null, profile);
